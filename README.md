@@ -8,7 +8,7 @@ The **Imposter Detection System** is an advanced deep learning solution designed
 
 - **Real-time Detection**: Identifies imposters as they attempt unauthorized access or fraudulent activities.
 - **Advanced Deep Learning Models**: Utilizes custom-built deep learning models, trained on comprehensive datasets.
-- **Custom Datasets**: Includes datasets like NUAA, Forensic++, and Yonsei University for robust training and validation.
+- **Custom Datasets**: Includes datasets like NUAA and Yonsei University for robust training and validation.
 - **High Accuracy**: Optimized algorithms ensure precise and reliable detection outcomes.
 - **Behavioral Analysis**: Detects anomalies through in-depth pattern and behavior analysis.
 
@@ -17,7 +17,6 @@ The **Imposter Detection System** is an advanced deep learning solution designed
 The project uses both publicly available datasets and custom-built datasets for training and evaluation:
 - **NUAA Dataset**: A facial dataset for spoof detection.
 - **Yonsei University Dataset**: Real and fake face datasets for deep learning.
-- **Forensic++ Dataset**: Designed for forgery and imposter detection applications.
 
 ## Methodology
 
@@ -37,7 +36,7 @@ The project uses both publicly available datasets and custom-built datasets for 
 
 ## How It Works
 
-1. Upload an image or video for analysis.
+1. Upload an image for analysis.
 2. The system analyzes the input using trained deep learning models.
 3. A real-time decision is made, categorizing the input as **Genuine** or **Imposter**.
 
