@@ -27,6 +27,11 @@ The project uses both publicly available datasets and custom-built datasets for 
 - **NUAA Dataset**: A facial dataset for spoof detection.
 - **Yonsei University Dataset**: Real and fake face datasets for deep learning.
 
+**Some dataset examples**:
+
+![collecting-dataset](https://github.com/user-attachments/assets/de7e81f8-7e56-4fb0-a8bd-2c352bce5661)
+
+
 ## Methodology
 
 1. **Data Collection**: Data is gathered from multiple sources to create a diverse and balanced dataset.
@@ -34,6 +39,11 @@ The project uses both publicly available datasets and custom-built datasets for 
 3. **Model Training**: The system uses advanced neural networks, including a custom-built **Fake Net Model**, to train for imposter detection.
 4. **Evaluation**: The models are rigorously evaluated using accuracy, precision, and recall metrics.
 5. **Deployment**: The trained model is deployed for real-time imposter detection.
+
+## Flow Diagram
+
+![graphviz (7)](https://github.com/user-attachments/assets/6bf05dbb-b9c0-4a11-b15f-0427e8b72b04)
+
 
 ## Technologies Used
 
@@ -68,6 +78,38 @@ The project uses both publicly available datasets and custom-built datasets for 
 
 6. **Real-Time Results**  
    Process user inputs (images) and classify them as **Genuine** or **Imposter**.
+
+
+![image](https://github.com/user-attachments/assets/35b98541-ff07-441f-abc0-e560b14cc7eb)
+
+### Results
+
+**Classification Report**
+
+![WhatsApp Image 2024-12-10 at 23 21 06_0c7fd892](https://github.com/user-attachments/assets/962d018a-3d66-40aa-b3aa-76469a415ed8)
+
+
+**Confusion Matrix**
+
+![WhatsApp Image 2024-12-10 at 23 18 10_f2d1e19a](https://github.com/user-attachments/assets/7bed4317-e67f-4ffd-926d-35e9f6445fe2)
+
+**ROC Curve**
+
+![WhatsApp Image 2024-12-10 at 23 19 18_24eb4c7f](https://github.com/user-attachments/assets/45c80b5a-8145-4785-ac29-125bdf17a05f)
+
+**AUC Curve**
+
+![WhatsApp Image 2024-12-10 at 23 19 19_c6ffd0af](https://github.com/user-attachments/assets/679fab03-a31a-4287-b40f-a986a20fb981)
+
+**Model Accuracy**
+
+![WhatsApp Image 2024-12-10 at 23 19 19_3e6f6c06](https://github.com/user-attachments/assets/4dc68196-fbb6-47fb-9b9d-e4a6918cb54d)
+
+
+**Model Loss**
+
+![WhatsApp Image 2024-12-10 at 23 19 20_45acede2](https://github.com/user-attachments/assets/dd587173-4394-44f9-a476-41120951aa42)
+
 
 ## Challenges
 
