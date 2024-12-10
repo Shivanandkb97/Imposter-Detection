@@ -53,8 +53,3 @@ The project uses both publicly available datasets and custom-built datasets for 
 - **Behavioral Analysis Expansion**: Incorporate more behavioral cues for enhanced detection.
 - **Scalability**: Optimize the system for deployment on large-scale applications.
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shivanandkb97/Imposter-Detection-System.git
