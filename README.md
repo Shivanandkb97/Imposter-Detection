@@ -69,20 +69,6 @@ The project uses both publicly available datasets and custom-built datasets for 
 6. **Real-Time Results**  
    Process user inputs (images) and classify them as **Genuine** or **Imposter**.
 
-**Diagram:**
-
-```plaintext
-Data Collection --> Data Preprocessing --> Model Training --> Model Evaluation --> Deployment --> Real-Time Results
-```
-
-
-### Flow Diagram
-Below is the high-level workflow of the **Imposter Detection System(Front End)**:
-
-```plaintext
-User Input (Image) --> Streamlit (app.py) --> Model Processing --> Result Display
-```
-
 ## Challenges
 
 - **Complex Image Recognition**: Identifying imposters in images with varying quality and lighting.
