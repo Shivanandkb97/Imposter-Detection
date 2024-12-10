@@ -49,7 +49,7 @@ The project uses both publicly available datasets and custom-built datasets for 
 2. The system analyzes the input using trained deep learning models.
 3. A real-time decision is made, categorizing the input as **Genuine** or **Imposter**.
 
-### Workflow of Imposter Detection System(model)
+### Workflow of Imposter Detection System
 
 1. **Data Collection**  
    Collect images and videos from datasets like NUAA, Yonsei, and Forensic++.
